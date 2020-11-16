@@ -13,6 +13,11 @@ A work about making a Job-Find-App with React-Native
 
 ![screenshot](overview/Screenshot.gif)
 
+## Images
+
+<img src= "overview/Screenshot_1.jpg" width =200 > <img src= "overview/Screenshot_2.jpg" width =200 >
+<img src= "overview/Screenshot_3.jpg" width =200 > <img src= "overview/Screenshot_4.jpg" width =200 >
+
 
 ### At the end of the project, following topics are to be covered;
 
